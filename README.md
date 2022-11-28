@@ -1,0 +1,1 @@
+This application will display college football data utilizing d3.js and other data visualization libraries 
